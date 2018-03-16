@@ -1,4 +1,4 @@
-#Randy Darrell  Gustavo Mendez Adrian  
+#Randy Darrell  Gustavo Mendez Adrian Garcia Juan Rodriguez
 f_ <-function(x0,d0,d1,delta){
   f<-function(t){
     r<-x0
